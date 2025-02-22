@@ -1,3 +1,3 @@
 # gitub-practice
 this is my practice repo
-Author-mehak channa
+Author-  (mehak channa)
